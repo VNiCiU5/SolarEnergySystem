@@ -1,75 +1,21 @@
-1. ENTRADA DE DADOS PARA CRIAR UMA 'VITRINE' DE FILMES FILTRADA POR GÊNERO. 
+Solar Energy Savings Calculator
+Introduction
+Welcome to our Solar Energy Savings Calculator! This tool is designed to help you estimate the potential savings on your energy bills by utilizing solar energy. By inputting some basic information about your energy usage and the solar system you're considering, you can get a rough idea of how much you could save over time.
 
-2. CRIADO UTILIZANDO NOÇÕES DE JAVASCRIPT UTILIZANDO O FRAMEWORK REACT.
- 
+How to Use
+Enter Your Energy Usage: Begin by entering information about your current energy usage. This includes your average monthly electricity bill, as well as any other relevant details about your energy consumption.
 
-# Getting Started with Create React App
+Solar System Details: Next, input information about the solar energy system you're considering. This includes the size of the system in kilowatts (kW), the cost of installation, and any available incentives or rebates.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Calculate Savings: Once you've entered all the necessary information, click the "Calculate" button to generate an estimate of your potential savings. The calculator will provide you with both short-term and long-term projections based on the data you've provided.
 
-## Available Scripts
+Disclaimer
+Please note that the results provided by this calculator are estimates only. Actual savings may vary based on a variety of factors including changes in energy prices, weather patterns, and the efficiency of your solar system. We recommend consulting with a qualified solar energy provider to get a more accurate assessment of potential savings for your specific situation.
 
-In the project directory, you can run:
+About Solar Energy
+Solar energy is a renewable and sustainable source of power that can help reduce your reliance on traditional fossil fuels. By harnessing the energy of the sun, you can not only save money on your energy bills but also reduce your carbon footprint and contribute to a cleaner environment.
 
-### `npm start`
+Contact Us
+If you have any questions about this calculator or about solar energy in general, please don't hesitate to contact us. Our team of experts is here to help you make informed decisions about incorporating solar energy into your home or business.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for considering solar energy as a way to reduce your energy costs and contribute to a greener future!
